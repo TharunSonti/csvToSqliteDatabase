@@ -1,0 +1,23 @@
+[[package]]
+category = "main"
+description = "replit"
+name = "replit"
+optional = false
+python-versions = "*"
+version = "1.0.5"
+
+[[package]]
+category = "main"
+description = "API for sqlite3"
+name = "sqlite3-api"
+optional = false
+python-versions = "*"
+version = "1.0.4"
+
+[metadata]
+content-hash = "7358bbc7f53c17f9c4ebab6d3d64d141d328ec7cb5a9e55767646af5402c2b3c"
+python-versions = "^3.7"
+
+[metadata.hashes]
+replit = ["0323725f7e0122a7ed2f123380974158c1a3c5f5c83972924864f633cc150ef7"]
+sqlite3-api = ["4eda5dfaea7815c0c5a28d71b17242a64001a2fc4ec90efcd4b3792a3b1f10e7"]
